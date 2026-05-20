@@ -1,0 +1,15 @@
+# Antigravity Extension Gate
+
+Antigravity Extension Gate is a hosted remote MCP for Antigravity extension compatibility MCP.
+
+Website: https://antigravityextensiongate.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Antigravity extension compatibility MCP
+Type: MCP
+Default plan: team
+MCP endpoint: https://antigravityextensiongate.clauxel.com/mcp
+Server card: https://antigravityextensiongate.clauxel.com/server-card.json
+Registry name: com.clauxel.antigravityextensiongate/antigravityextensiongate-mcp
+Tools: check_extension_gate, classify_extension_gap, issue_extension_receipt, suggest_extension_fix, export_extension_audit
+
+Public boundary: docs-only repository; no production source code or secrets.
